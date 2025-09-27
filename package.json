@@ -19,5 +19,8 @@
   "homepage": "https://github.com/2320403148-hash/backend#readme",
   "devDependencies": {
     "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "prettier": "^3.6.2"
   }
 }
